@@ -14,6 +14,7 @@ A full-stack social platform for university students to connect, share notes, re
 * **Projects & Reviews:** Submit projects with multiple file types and participate in reviews.
 * **Student Marketplace:** Post items for sale and message sellers privately.
 * **Events Calendar:** View and publish university events.
+* **Lost & Found:** A dedicated section for posting lost and found items.
 
 ---
 
