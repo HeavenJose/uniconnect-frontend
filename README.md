@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# UniConnect Front-End
+
+This is the React front-end for the UniConnect application.
+
+**➡️ Find the backend code for this project here:** [**uniconnect-backend**](https://github.com/HeavenJose/uniconnect-backend)# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
