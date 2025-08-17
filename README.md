@@ -46,11 +46,20 @@ Here's a look at the UniConnect application's user interface.
 | Welcome Page | Register Page |
 | :---: | :---: |
 | ![Welcome Page](./screenshots/Welcome Page.png) | ![Register Page](./screenshots/Register Page.png) |
-| **Login Page** | **Profile Page** |
+
+| Login Page | Profile Page |
+| :---: | :---: |
 | ![Login Page](./screenshots/Login Page.png) | ![Profile Page](./screenshots/Profile Page.png) |
-| **Projects & Reviews** | **Notes Section** |
+
+| Projects & Reviews | Notes Section |
+| :---: | :---: |
 | ![Projects and Review Page](./screenshots/Projects and Review Page.png) | ![Notes Page](./screenshots/Notes Page.png) |
-| **Chatbox** | **Marketplace Listings** |
+
+| Chatbox | Marketplace Listings |
+| :---: | :---: |
 | ![Chatbox Page](./screenshots/Chatbox Page.png) | ![Listing Page](./screenshots/Listing Page.png) |
-| **Lost and Found** | **Events Page** |
+
+| Lost and Found | Events Page |
+| :---: | :---: |
+| ![Lost and Found Page](./screenshots/Lost and Found Page.png) | ![Events Page](./screenshots/Events Page.png) |
 | ![Lost and Found Page](./screenshots/Lost and Found Page.png) | ![Events Page](./screenshots/Events Page.png) |
