@@ -39,26 +39,36 @@ To run this project locally, follow these steps:
 4.  Start the development server:
     `npm start`
 
-  ## 📸 Screenshots
+## 📸 Screenshots
 
-Here's a look at the UniConnect application's user interface.
+Here's a look at the UniConnect application's user interface, showing the flow from the welcome page to the main dashboard features.
 
-| Welcome Page | Register Page |
-| :---: | :---: |
-| ![Welcome Page](./screenshots/screenshots/Screenshot 2025-08-17 230235.png) | ![Register Page](./screenshots/Register%20Page.png) |
+1.  **Welcome Page:**
+    ![Welcome Page](./screenshots/Screenshot%202025-08-17%20230235.png)
 
-| Login Page | Profile Page |
-| :---: | :---: |
-| ![Login Page](./screenshots/Login%20Page.png) | ![Profile Page](./screenshots/Profile%20Page.png) |
+2.  **Register Page:**
+    ![Register Page](./screenshots/Screenshot%202025-08-17%20230257.png)
 
-| Projects & Reviews | Notes Section |
-| :---: | :---: |
-| ![Projects and Review Page](./screenshots/Projects%20and%20Review%20Page.png) | ![Notes Page](./screenshots/Notes%20Page.png) |
+3.  **Login Page:**
+    ![Login Page](./screenshots/Screenshot%202025-08-17%20230312.png)
 
-| Chatbox | Marketplace Listings |
-| :---: | :---: |
-| ![Chatbox Page](./screenshots/Chatbox%20Page.png) | ![Listing Page](./screenshots/Listing%20Page.png) |
+4.  **Profile Page:**
+    ![Profile Page](./screenshots/Screenshot%202025-08-17%20230331.png)
 
-| Lost and Found | Events Page |
-| :---: | :---: |
-| ![Lost and Found Page](./screenshots/Lost%20and%20Found%20Page.png) | ![Events Page](./screenshots/Events%20Page.png) |
+5.  **Projects & Reviews:**
+    ![Projects and Review Page](./screenshots/Screenshot%202025-08-17%20230341.png)
+
+6.  **Notes Section:**
+    ![Notes Page](./screenshots/Screenshot%202025-08-17%20230350.png)
+
+7.  **Chatbox:**
+    ![Chatbox Page](./screenshots/Screenshot%202025-08-17%20230401.png)
+
+8.  **Marketplace Listings:**
+    ![Listing Page](./screenshots/Screenshot%202025-08-17%20230410.png)
+
+9.  **Lost and Found:**
+    ![Lost and Found Page](./screenshots/Screenshot%202025-08-17%20230419.png)
+
+10. **Events Page:**
+    ![Events Page](./screenshots/Screenshot%202025-08-17%20230431.png)
