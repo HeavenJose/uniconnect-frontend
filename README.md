@@ -45,7 +45,7 @@ Here's a look at the UniConnect application's user interface.
 
 | Welcome Page | Register Page |
 | :---: | :---: |
-| ![Welcome Page](./screenshots/Welcome%20Page.png) | ![Register Page](./screenshots/Register%20Page.png) |
+| ![Welcome Page](./screenshots/screenshots/Screenshot 2025-08-17 230235.png) | ![Register Page](./screenshots/Register%20Page.png) |
 
 | Login Page | Profile Page |
 | :---: | :---: |
