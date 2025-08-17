@@ -39,36 +39,26 @@ To run this project locally, follow these steps:
 4.  Start the development server:
     `npm start`
 
-   ## 📸 Screenshots
+  ## 📸 Screenshots
 
-Here's a look at the UniConnect application's user interface, showing the flow from the welcome page to the main dashboard features.
+Here's a look at the UniConnect application's user interface.
 
-1.  **Welcome Page:**
-    ![Welcome Page](./screenshots/Welcome Page.png)
+| Welcome Page | Register Page |
+| :---: | :---: |
+| ![Welcome Page](./screenshots/Welcome%20Page.png) | ![Register Page](./screenshots/Register%20Page.png) |
 
-2.  **Register Page:**
-    ![Register Page](./screenshots/Register Page.png)
+| Login Page | Profile Page |
+| :---: | :---: |
+| ![Login Page](./screenshots/Login%20Page.png) | ![Profile Page](./screenshots/Profile%20Page.png) |
 
-3.  **Login Page:**
-    ![Login Page](./screenshots/Login Page.png)
+| Projects & Reviews | Notes Section |
+| :---: | :---: |
+| ![Projects and Review Page](./screenshots/Projects%20and%20Review%20Page.png) | ![Notes Page](./screenshots/Notes%20Page.png) |
 
-4.  **Profile Page:**
-    ![Profile Page](./screenshots/Profile Page.png)
+| Chatbox | Marketplace Listings |
+| :---: | :---: |
+| ![Chatbox Page](./screenshots/Chatbox%20Page.png) | ![Listing Page](./screenshots/Listing%20Page.png) |
 
-5.  **Projects & Reviews:**
-    ![Projects and Review Page](./screenshots/Projects and Review Page.png)
-
-6.  **Notes Section:**
-    ![Notes Page](./screenshots/Notes Page.png)
-
-7.  **Chatbox:**
-    ![Chatbox Page](./screenshots/Chatbox Page.png)
-
-8.  **Marketplace Listings:**
-    ![Listing Page](./screenshots/Listing Page.png)
-
-9.  **Lost and Found:**
-    ![Lost and Found Page](./screenshots/Lost and Found Page.png)
-
-10. **Events Page:**
-    ![Events Page](./screenshots/Events Page.png)
+| Lost and Found | Events Page |
+| :---: | :---: |
+| ![Lost and Found Page](./screenshots/Lost%20and%20Found%20Page.png) | ![Events Page](./screenshots/Events%20Page.png) |
