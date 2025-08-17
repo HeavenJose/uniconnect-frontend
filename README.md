@@ -41,25 +41,34 @@ To run this project locally, follow these steps:
 
    ## 📸 Screenshots
 
-Here's a look at the UniConnect application's user interface.
+Here's a look at the UniConnect application's user interface, showing the flow from the welcome page to the main dashboard features.
 
-| Welcome Page | Register Page |
-| :---: | :---: |
-| ![Welcome Page](./screenshots/Welcome Page.png) | ![Register Page](./screenshots/Register Page.png) |
+1.  **Welcome Page:**
+    ![Welcome Page](./screenshots/Welcome Page.png)
 
-| Login Page | Profile Page |
-| :---: | :---: |
-| ![Login Page](./screenshots/Login Page.png) | ![Profile Page](./screenshots/Profile Page.png) |
+2.  **Register Page:**
+    ![Register Page](./screenshots/Register Page.png)
 
-| Projects & Reviews | Notes Section |
-| :---: | :---: |
-| ![Projects and Review Page](./screenshots/Projects and Review Page.png) | ![Notes Page](./screenshots/Notes Page.png) |
+3.  **Login Page:**
+    ![Login Page](./screenshots/Login Page.png)
 
-| Chatbox | Marketplace Listings |
-| :---: | :---: |
-| ![Chatbox Page](./screenshots/Chatbox Page.png) | ![Listing Page](./screenshots/Listing Page.png) |
+4.  **Profile Page:**
+    ![Profile Page](./screenshots/Profile Page.png)
 
-| Lost and Found | Events Page |
-| :---: | :---: |
-| ![Lost and Found Page](./screenshots/Lost and Found Page.png) | ![Events Page](./screenshots/Events Page.png) |
-| ![Lost and Found Page](./screenshots/Lost and Found Page.png) | ![Events Page](./screenshots/Events Page.png) |
+5.  **Projects & Reviews:**
+    ![Projects and Review Page](./screenshots/Projects and Review Page.png)
+
+6.  **Notes Section:**
+    ![Notes Page](./screenshots/Notes Page.png)
+
+7.  **Chatbox:**
+    ![Chatbox Page](./screenshots/Chatbox Page.png)
+
+8.  **Marketplace Listings:**
+    ![Listing Page](./screenshots/Listing Page.png)
+
+9.  **Lost and Found:**
+    ![Lost and Found Page](./screenshots/Lost and Found Page.png)
+
+10. **Events Page:**
+    ![Events Page](./screenshots/Events Page.png)
